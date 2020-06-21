@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Layout-challenge/static/css/main.5a330945.chunk.css",
+    "main.js": "/Layout-challenge/static/js/main.69a75fa7.chunk.js",
+    "main.js.map": "/Layout-challenge/static/js/main.69a75fa7.chunk.js.map",
+    "runtime-main.js": "/Layout-challenge/static/js/runtime-main.fa005825.js",
+    "runtime-main.js.map": "/Layout-challenge/static/js/runtime-main.fa005825.js.map",
+    "static/js/2.612e7165.chunk.js": "/Layout-challenge/static/js/2.612e7165.chunk.js",
+    "static/js/2.612e7165.chunk.js.map": "/Layout-challenge/static/js/2.612e7165.chunk.js.map",
+    "index.html": "/Layout-challenge/index.html",
+    "precache-manifest.6239ee0d95197f15b0ac1fd01540fd82.js": "/Layout-challenge/precache-manifest.6239ee0d95197f15b0ac1fd01540fd82.js",
+    "service-worker.js": "/Layout-challenge/service-worker.js",
+    "static/css/main.5a330945.chunk.css.map": "/Layout-challenge/static/css/main.5a330945.chunk.css.map",
+    "static/js/2.612e7165.chunk.js.LICENSE.txt": "/Layout-challenge/static/js/2.612e7165.chunk.js.LICENSE.txt",
+    "static/media/github.png": "/Layout-challenge/static/media/github.d22ee372.png",
+    "static/media/header.css": "/Layout-challenge/static/media/photo.ab4c1df2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa005825.js",
+    "static/js/2.612e7165.chunk.js",
+    "static/css/main.5a330945.chunk.css",
+    "static/js/main.69a75fa7.chunk.js"
+  ]
+}
